@@ -27,4 +27,7 @@ var sharkCreator =  createAnimal('Shark');
 var sharkWithFrickinLaserbeam = sharkCreator('Laserbeam');
 var sharkWithFrickinCannon = sharkCreator('Cannon');
 
-
+console.log(bumpCounter);
+console.log(sharkCreator);
+console.log(sharkWithFrickinLaserbeam);
+console.log(sharkWithFrickinCannon);
